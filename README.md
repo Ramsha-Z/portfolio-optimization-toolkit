@@ -66,4 +66,4 @@ For a long-only, fully-invested portfolio with weights **w**, expected returns *
 ## Author
 
 Ramsha Zainab — MSc Economics and Finance, University of Navarra
-[GitHub](https://github.com/Ramsha-Z) | | [LinkedIn](https://linkedin.com/in/ramsha-zainab)
+[GitHub](https://github.com/Ramsha-Z) |  [LinkedIn](https://linkedin.com/in/ramsha-zainab)
